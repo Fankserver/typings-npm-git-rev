@@ -1,0 +1,1 @@
+# typings-npm-git-rev
