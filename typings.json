@@ -1,0 +1,5 @@
+{
+  "name": "git-rev",
+  "main": "git-rev.d.ts",
+  "version": "0.2.1"
+}
